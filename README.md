@@ -1,3 +1,4 @@
 # Newwity
 
-this is my first github readme
+this is my first Git repository
+
